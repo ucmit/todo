@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/ucmit.github.io/todo/static/js/main.c69799ed.chunk.js",
+    "main.js.map": "/ucmit.github.io/todo/static/js/main.c69799ed.chunk.js.map",
+    "runtime-main.js": "/ucmit.github.io/todo/static/js/runtime-main.c8aa7b64.js",
+    "runtime-main.js.map": "/ucmit.github.io/todo/static/js/runtime-main.c8aa7b64.js.map",
+    "static/js/2.fb4bf423.chunk.js": "/ucmit.github.io/todo/static/js/2.fb4bf423.chunk.js",
+    "static/js/2.fb4bf423.chunk.js.map": "/ucmit.github.io/todo/static/js/2.fb4bf423.chunk.js.map",
+    "index.html": "/ucmit.github.io/todo/index.html",
+    "static/js/2.fb4bf423.chunk.js.LICENSE.txt": "/ucmit.github.io/todo/static/js/2.fb4bf423.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8aa7b64.js",
+    "static/js/2.fb4bf423.chunk.js",
+    "static/js/main.c69799ed.chunk.js"
+  ]
+}
